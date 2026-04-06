@@ -13,7 +13,7 @@ Podstawowe ćwiczenie z kursu **Arduino cz. 2** z strony **Forbot**.
 * 'schemat_podstawy RGB.jpg' - Schemat połączeń (Fritzing)
 
 ### Schemat połączeń:
-![Schemat projektu](schemat_podstawy RGB.jpg)
+![Schemat projektu](schemat_podstawy_RGB.jpg)
 
 ### Prezentacja działania:
-![GIF z działania](GIF_wideo_podstawy RGB.gif)
+![GIF z działania](GIF_wideo_podstawy_RGB.gif)
