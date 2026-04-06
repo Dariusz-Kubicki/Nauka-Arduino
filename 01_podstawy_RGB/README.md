@@ -4,7 +4,7 @@ Podstawowe ćwiczenie z kursu **Arduino cz. 2** z strony **Forbot**.
 ### Czego się nauczyłem:
 * Dzisiaj dowiedziałem się co to dioda RGB.
 * Nauczyłem się ją podłączać do Arduino.
-* Zaprogramowałem ją.
+* Zaprogramowałem ją za pomocą funkcji digitalWrite(). Przez co każdy kolor świecił z maksymalną jasnością.
 * Zrobiłem schemat w programie fritzing.
 
 ### Pliki w projekcie:
