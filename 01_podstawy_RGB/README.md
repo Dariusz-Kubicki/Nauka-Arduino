@@ -1,4 +1,4 @@
-#Lekcja 1: Podstawy RGB
+# Lekcja 1: Podstawy RGB
 Podstawowe ćwiczenie z kursu **Arduino cz. 2** z strony **Forbot**.
 
 ### Czego się nauczyłem:
