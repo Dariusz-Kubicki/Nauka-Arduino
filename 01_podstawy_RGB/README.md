@@ -16,4 +16,4 @@ Podstawowe ćwiczenie z kursu **Arduino cz. 2** z strony **Forbot**.
 ![Schemat projektu](schemat_podstawy_RGB.jpg)
 
 ### Prezentacja działania:
-![GIF z działania](GIF_wideo_podstawy_RGB.gif)
+[GIF z działania](GIF_wideo_podstawy_RGB.gif)
