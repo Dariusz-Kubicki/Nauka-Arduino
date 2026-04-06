@@ -10,7 +10,8 @@ Podstawowe ćwiczenie z kursu **Arduino cz. 2** z strony **Forbot**.
 
 ### Pliki w projekcie:
 * '01_podstawy_RGB.ino' - Kod programu
-* 'schemat_podstawy RGB.jpg' - Schemat połączeń (Fritzing)
+* 'schemat_podstawy_RGB.jpg' - Schemat połączeń (Fritzing)
+* 'GIF_wideo_podstawy_RGB.gif' - Prezentacja działania
 
 ### Schemat połączeń:
 ![Schemat projektu](schemat_podstawy_RGB.jpg)
