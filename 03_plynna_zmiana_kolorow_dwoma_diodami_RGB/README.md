@@ -11,9 +11,9 @@ Podstawowe ćwiczenie i kontynuacja kursu **Arduino cz. 2** z strony **Forbot**.
 * Zrobiłem schemat w programie Fritzing.
 
 ### Pliki w projekcie:
-* '03_plynna_zmiana_kolorow_dwoma_diodami_RGB' - Kod programu
-* 'schemat_plynna_zmiana_kolorow_dwoma_diodami_RGB' - Schemat połączeń (Fritzing)
-* 'GIF_plynna_zmiana_kolorow_dwoma_diodami_RGB' - Prezentacja działania
+* `03_plynna_zmiana_kolorow_dwoma_diodami_RGB` - Kod programu
+* `schemat_plynna_zmiana_kolorow_dwoma_diodami_RGB` - Schemat połączeń (Fritzing)
+* `GIF_plynna_zmiana_kolorow_dwoma_diodami_RGB` - Prezentacja działania
 
 ### Schemat połączeń:
 ![Schemat projektu](schemat_plynna_zmiana_kolorow_dwoma_diodami_RGB.jpg)
