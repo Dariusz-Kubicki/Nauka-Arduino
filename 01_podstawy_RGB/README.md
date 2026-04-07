@@ -8,9 +8,9 @@ Podstawowe ćwiczenie z kursu **Arduino cz. 2** z strony **Forbot**.
 * Zrobiłem schemat w programie fritzing.
 
 ### Pliki w projekcie:
-* '01_podstawy_RGB.ino' - Kod programu
-* 'schemat_podstawy_RGB.jpg' - Schemat połączeń (Fritzing)
-* 'GIF_wideo_podstawy_RGB.gif' - Prezentacja działania
+* `01_podstawy_RGB.ino` - Kod programu
+* `schemat_podstawy_RGB.jpg` - Schemat połączeń (Fritzing)
+* `GIF_wideo_podstawy_RGB.gif` - Prezentacja działania
 
 ### Schemat połączeń:
 ![Schemat projektu](schemat_podstawy_RGB.jpg)
