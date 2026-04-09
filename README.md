@@ -7,3 +7,4 @@ Dokumentacja mojej nauki elektroniki i programowania Arduino. Znajdziesz tu kody
 * [Lekcja 3: Płynna zmiana kolorów dwoma diodami RGB](./03_plynna_zmiana_kolorow_dwoma_diodami_RGB)
 * [Lekcja 4: Podstawy diod programowalnych](./04_podstawy_diod_programowalnych)
 * [Lekcja 5: Sygnały uprzywilejowane](./05_sygnaly_uprzywilejowane)
+* [Lekcja 6: Podstawy buzzera bez generatora](./06_podstawy_buzzera_bez_generatora)
