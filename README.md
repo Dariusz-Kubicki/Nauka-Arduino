@@ -8,3 +8,4 @@ Dokumentacja mojej nauki elektroniki i programowania Arduino. Znajdziesz tu kody
 * [Lekcja 4: Podstawy diod programowalnych](./04_podstawy_diod_programowalnych)
 * [Lekcja 5: Sygnały uprzywilejowane](./05_sygnaly_uprzywilejowane)
 * [Lekcja 6: Podstawy buzzera bez generatora](./06_podstawy_buzzera_bez_generatora)
+* [Lekcja 7: Alarm otwarcia okna](./07_alarm_otwarcia_okna)
