@@ -1,5 +1,5 @@
 # Lekcja 7: Alarm otwarcia okna
-Podstawowe ćwiczenie z kursu **Arduino cz. 2** od Forbot. 
+Podstawowe ćwiczenie z kursu **Arduino cz. 2** od **Forbot**. 
 Symulacja alarmu otwarcia okna z urzyciem kontaktrona, diody RGB i buzzera pasywnego.
 
 ### Czego się nauczyłem:
