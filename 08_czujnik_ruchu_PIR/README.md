@@ -13,7 +13,7 @@ Podstawowe ćwiczenie z kursu **Arduino cz. 2** z strony **Forbot**. Dzisiaj zaj
 * `gif_czujnik_ruchu_PIR.gif` - Prezentacja działania
 
 ### Schemat połączeń:
-[Schemat projektu](schemat_czujnik_ruchu_PIR.jpg)
+![Schemat projektu](schemat_czujnik_ruchu_PIR.jpg)
 
 ### Prezentacja działania:
-[GIF z działaniem](gif_czujnik_ruchu_PIR.gif)
+![GIF z działaniem](gif_czujnik_ruchu_PIR.gif)
