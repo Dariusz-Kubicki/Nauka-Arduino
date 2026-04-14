@@ -3,7 +3,6 @@
 #define LED_B 12
 #define LED_SYG 13
 
-#define KONTAKTRON 0
 #define PIR 2
 
 void setup() {
@@ -11,7 +10,6 @@ void setup() {
   pinMode(LED_G, OUTPUT);
   pinMode(LED_B, OUTPUT);
 
-  pinMode(KONTAKTRON, INPUT_PULLUP); //Kontaktron joko wejście
   pinMode(PIR, INPUT); //PIR jako wejście
 
   digitalWrite(LED_R, LOW);
