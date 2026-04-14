@@ -9,6 +9,7 @@ void setup() {
   pinMode(LED_R, OUTPUT); //Poszczególne piny sterujące diodą jako wyjścia
   pinMode(LED_G, OUTPUT);
   pinMode(LED_B, OUTPUT);
+  pinMode(LED_SYG, OUTPUT);
 
   pinMode(PIR, INPUT); //PIR jako wejście
 
@@ -21,9 +22,9 @@ void setup() {
 
 void loop() {
   digitalWrite(LED_SYG, HIGH);
-  delay(2000);
+  delay(1000);
   digitalWrite(LED_SYG, LOW);
-  delay(2000);
+  delay(1000);
 }
 
 void alarm() {
