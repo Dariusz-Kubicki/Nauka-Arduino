@@ -22,6 +22,16 @@ Dużo lepiej jest kupić dzwonek i po porostu czytać dalej, a dzwonek powiadomi
 
 **Uwaga:** Funkcja która wykonuje przerwanie, musi być bardzo krótka (zmienienie flagi lub stanu, a nie skomplikowne obliczenia) oraz nie może mieć w sobie `delay()` czy innych funkcji opóźnienia.
 
+### Funkcja `attachInterupt()`
+Aby uruchomić przerwanie w kodzie, używamy funkcji `attachInterrupt()`, która przyjmuje trzy prametry `attachInterrupt(digitalPinTpInterrupt(pin), funkcja_ISR, tryb`:
+* digitalPinInterrupt(pin): Wskazuje pin, który ma "nasłuchiwać" (W Arduino Uno najczęściej piny 2 i 3).
+* funkcja_ISR: Nazwa funkcji która Arduino ma wykonać natychmiast po wykryciu sygnału. Musi być krótka i nie może zawierać `delay()`.
+* tryb: Określa, na jaki sygnał elektryczny reagujemy:
+    * LOW - wywołanie przerwania zawsze, gdy na wejściu panuje stan niski.
+    * CHANGE - wywołanie przy zmianie wartości na pinie (z wysokiego na niski i odwrotnie).
+    * RISING - wywołanie, gdy następuje zmiana wartości ze stanu niskiego na wysoki.
+    * FALLING - wywołanie, gdy następuje zmiana wartości ze stanu wysokiego na niski.
+
 ### Pliki w projekcie:
 `09_przerwania.ino` - Kod programu
 `schemat_przerwania.jpg` - Schemat połączeń (Fritzing)
