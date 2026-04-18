@@ -34,9 +34,9 @@ Aby uruchomić przerwanie w kodzie, używamy funkcji `attachInterrupt()`, która
     * FALLING - wywołanie, gdy następuje zmiana wartości ze stanu wysokiego na niski.
 
 ### Pliki w projekcie:
-`09_przerwania.ino` - Kod programu
-`schemat_przerwania.jpg` - Schemat połączeń (Fritzing)
-`prezentacja_działania_przerwania.gif` - Prezentacja działania
+* `09_przerwania.ino` - Kod programu
+* `schemat_przerwania.jpg` - Schemat połączeń (Fritzing)
+* `prezentacja_działania_przerwania.gif` - Prezentacja działania
 
 ### Schemat połączeń:
 ![Schemat projektu](schemat_przerwania.jpg)
