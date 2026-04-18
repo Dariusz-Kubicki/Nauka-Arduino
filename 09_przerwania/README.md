@@ -1,4 +1,5 @@
 # Lekcja 9: Przerwania
+Podstawowe ćwiczenie z kursu **Arduino cz. 2** od **Forbot**. Dzisiaj przyjrzałem się przerwanią w Arduino oraz zbudowałem projekt stosując wcześniej wspomniane przerwania oraz czujnik ruchu PIR z wcześniejszych lekcji.
 
 ### Czego się nauczyłem:
 * Co to przerwania i jak je stosować.
