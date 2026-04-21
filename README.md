@@ -14,4 +14,4 @@ Dokumentacja mojej nauki elektroniki i programowania Arduino. Znajdziesz tu kody
 * [Lekcja 9: Przerwania](./09_przerwania)
 * [Lekcja 10: Przerwania cz. 2](./10_przerwania_cz2)
 * [Lekcja 11: Klawiatura 4x4](./11_klawiatura_4x4)
-* [Lekcja 12: Serwomechanizmy](./11_serwomechanizmy)
+* [Lekcja 12: Serwomechanizmy](./11_serwomechanizm)
