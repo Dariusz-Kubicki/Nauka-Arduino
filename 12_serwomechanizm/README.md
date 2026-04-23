@@ -13,4 +13,4 @@
 ### Prezentacja działania:
 
 ### Schemat połączeń:
-![Schemat projektu](schemat_serwomechanizm.jpg)
+![Schemat projektu]
