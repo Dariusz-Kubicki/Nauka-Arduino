@@ -18,7 +18,7 @@
 
 ---
 
-### Projekt 2
+## Projekt 2
 
 ### Pliki w projekcie:
 * `12_serwomechanizm_2.ino` - Kod programu 2
