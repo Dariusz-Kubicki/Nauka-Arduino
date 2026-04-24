@@ -6,12 +6,12 @@
 
 ### Pliki w projekcie:
 * `12_serwomechanizm_1.ino` - Kod programu 1
-* `` - Prezentacja działania 1
+* `prezentacja_dzialania_serwomechanizm_1.gif` - Prezentacja działania 1
 * `schemat_serwomechanizm.jpg` - Schemat połączeń (Fritzing)
 
 
 ### Prezentacja działania:
-
+![GIF z działaniem](prezentacja_dzialania_serwomechanizm_1.gif)
 
 ### Schemat połączeń:
 ![Schemat projektu](schemat_serwomechanizm.jpg)
