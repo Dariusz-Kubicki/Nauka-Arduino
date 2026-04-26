@@ -2,7 +2,7 @@
 
 ### Czego się nauczyłem:
 * Poznałem bibliotekę `Servo.h` i nauczyłem się z niej korzystać.
-* poznałem komendy `.attach()` i `.write()`, które służą kolejno do przypisania pinu PWM dla serwomechanizmu oraz do ustawienia go na odpowiedią pozycję.
+* poznałem komendy `.attach()` i `.write()`, które służą kolejno do przypisania pinu PWM dla serwomechanizmu oraz do ustawienia serwa na odpowiedią pozycję.
 
 ### Pliki w projekcie:
 * `12_serwomechanizm_cz1.ino` - Kod programu
