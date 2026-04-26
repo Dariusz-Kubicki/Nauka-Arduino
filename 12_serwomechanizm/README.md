@@ -1,6 +1,8 @@
 # Lekcja 12: Serwomechanizm
 
 ### Czego się nauczyłem:
+* Poznałem bibliotekę `Servo.h` i nauczyłem się z niej korzystać.
+* poznałem komendy `.attach()` i `.write()`, które służą kolejno do przypisania pinu PWM dla serwomechanizmu oraz do ustawienia go na odpowiedią pozycję.
 
 ## Projekt 1
 
