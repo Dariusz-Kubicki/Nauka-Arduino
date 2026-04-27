@@ -2,7 +2,7 @@
 Dokumentacja mojej nauki elektroniki i programowania Arduino. Znajdziesz tu kody z kursów @Forbot, schematy oraz autorskie eksperymenty z komponentami takimi jak diody RGB, czujniki, wyświetlacze i wiele więcej.
 
 ## Spis treści:
-### Kurs Arduino cz.2 od **Forbot**
+### Kurs Arduino od **Forbot**
 * [Lekcja 1: Podstawy RGB](./01_podstawy_RGB)
 * [Lekcja 2: Miganie dwoma diodami RGB](./02_miganie_dwoma_diodami_RGB)
 * [Lekcja 3: Płynna zmiana kolorów dwoma diodami RGB](./03_plynna_zmiana_kolorow_dwoma_diodami_RGB)
@@ -14,4 +14,4 @@ Dokumentacja mojej nauki elektroniki i programowania Arduino. Znajdziesz tu kody
 * [Lekcja 9: Przerwania](./09_przerwania)
 * [Lekcja 10: Przerwania cz. 2](./10_przerwania_cz2)
 * [Lekcja 11: Klawiatura 4x4](./11_klawiatura_4x4)
-* [Lekcja 12: Serwomechanizmy](./12_serwomechanizm)
+* [Lekcja 12: Serwomechanizmy cz. 1](./12_serwomechanizm_cz1)
