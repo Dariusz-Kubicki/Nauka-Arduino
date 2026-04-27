@@ -22,3 +22,4 @@ Serwo pobiera stosunkowo duży prąd rzędu 500-800mA lub więcej, standardowy p
 
 ### Schemat połączeń:
 ![Schemat projektu](schemat_serwomechanizm.jpg)
+*Wymagane jest zewnętrzne zasilanie z baterii 9V lub zasilacza 12V podpiętego do gniazna DC.*
