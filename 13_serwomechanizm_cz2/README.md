@@ -7,7 +7,7 @@ Kontynuacja lekcji 12 serwomechanizmy na podstawie kursu Arduino od **Forbot**. 
 * Kalibracja serwomechanizmu, żeby wskazywał idealnie wynik na tarczy wsaźnika
 
 ### Pliki w projekcie:
-* `12_serwomechanizm_2.ino` - Kod programu
+* `13_serwomechanizm_2.ino` - Kod programu
 * `schemat_serwomechanizm.jpg` - Schemat połączeń (Fritzing)
 * `prezentacja_dzialania_serwomechanizm_2.gif` - Prezentacja działania
 
