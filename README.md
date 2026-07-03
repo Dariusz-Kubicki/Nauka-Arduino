@@ -16,3 +16,4 @@ Dokumentacja mojej nauki elektroniki i programowania Arduino. Znajdziesz tu kody
 * [Lekcja 11: Klawiatura 4x4](./11_klawiatura_4x4)
 * [Lekcja 12: Serwomechanizmy cz. 1](./12_serwomechanizm_cz1)
 * [Lekcja 13: Serwomechanizmy cz. 2](./13_serwomechanizm_cz2)
+* [Lekcja 14: Czujnik odległości HC-SR04](./14_czujnik_odleglosci_hc-sr04)
