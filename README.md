@@ -11,7 +11,7 @@ Dokumentacja mojej nauki elektroniki i programowania Arduino. Znajdziesz tu kody
 * [Lekcja 6: Podstawy buzzera bez generatora](./06_podstawy_buzzera_bez_generatora)
 * [Lekcja 7: Alarm otwarcia okna](./07_alarm_otwarcia_okna)
 * [Lekcja 8: Czujnik ruchu PIR](./08_czujnik_ruchu_PIR)
-* [Lekcja 9: Przerwania](./09_przerwania)
+* [Lekcja 9: Przerwania cz. 1](./09_przerwania)
 * [Lekcja 10: Przerwania cz. 2](./10_przerwania_cz2)
 * [Lekcja 11: Klawiatura 4x4](./11_klawiatura_4x4)
 * [Lekcja 12: Serwomechanizmy cz. 1](./12_serwomechanizm_cz1)
