@@ -123,18 +123,6 @@ Funkcja `delayMicroseconds()` działa podobnie do `delay()`, ale czas podawany j
 
 W tym przypadku jedna dioda świeci przez 150 mikrosekund, czyli 0,00015 sekundy.
 
-### Czy potrzebna jest biblioteka?
-
-W tym projekcie **nie użyłem żadnej dodatkowej biblioteki**.
-
-Matryca jest sterowana bezpośrednio za pomocą standardowych funkcji Arduino:
-
-* `pinMode()`
-* `digitalWrite()`
-* `delayMicroseconds()`
-
-W bardziej rozbudowanych projektach do sterowania matrycami LED można wykorzystać dodatkowy sterownik, np. **MAX7219**, który sam zajmuje się multipleksowaniem.
-
 ### Połączenie
 
 W wykonanym podczas zajęć układzie matryca 1088BS została podłączona bezpośrednio do pinów Arduino zgodnie z mapowaniem użytym w programie, bez dodatkowego sterownika.
