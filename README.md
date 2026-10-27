@@ -17,3 +17,5 @@ Dokumentacja mojej nauki elektroniki i programowania Arduino. Znajdziesz tu kody
 * [Lekcja 12: Serwomechanizmy cz. 1](./12_serwomechanizm_cz1)
 * [Lekcja 13: Serwomechanizmy cz. 2](./13_serwomechanizm_cz2)
 * [Lekcja 14: Czujnik odległości HC-SR04](./14_czujnik_odleglosci_hc-sr04)
+* [Lekcja 15: Matryca LED 8x8](./15_matryca_led_8x8)
+* [Lekcja 16: Czujnik temperatury i wilgotności DHT11](./16_czujnik_DHT11)
